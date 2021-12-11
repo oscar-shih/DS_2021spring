@@ -1,0 +1,12 @@
+insert 50 10 15 20 100 55 80 250
+postorder
+internalnode
+delete 80
+delete 15
+preorder
+max
+min
+level
+leafnode
+delete 50
+inorder

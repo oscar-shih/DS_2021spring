@@ -1,0 +1,12 @@
+insert 5 3 2 4 7 6 8
+inorder
+preorder
+postorder
+delete 9
+inorder
+delete 2
+inorder
+delete 3
+inorder
+delete 5
+inorder

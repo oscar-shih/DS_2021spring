@@ -1,0 +1,13 @@
+insert 4 3 5 7 9 11 8
+inorder
+leafnode
+internalnode
+delete 3
+inorder
+delete 4
+inorder
+delete 7
+leafnode
+internalnode
+level
+inorder
